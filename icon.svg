@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="사회연대경제기업 업무진단도구">
+  <rect width="512" height="512" rx="112" fill="#1f7a5a"/>
+  <rect x="128" y="104" width="256" height="316" rx="30" fill="#ffffff"/>
+  <rect x="190" y="82" width="132" height="56" rx="22" fill="#155a42" stroke="#ffffff" stroke-width="8"/>
+  <g fill="none" stroke="#1f7a5a" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M163 205l20 20 38-42"/>
+    <path d="M163 288l20 20 38-42"/>
+  </g>
+  <g fill="#cfdcd3">
+    <rect x="246" y="200" width="104" height="18" rx="9"/>
+    <rect x="246" y="283" width="104" height="18" rx="9"/>
+    <rect x="246" y="366" width="72" height="18" rx="9"/>
+  </g>
+  <circle cx="189" cy="375" r="26" fill="#e8a33d"/>
+  <path d="M195 357l-18 22h13l-5 17 19-24h-13z" fill="#ffffff"/>
+</svg>

@@ -1,0 +1,16 @@
+{
+  "name": "사회연대경제기업 업무진단도구",
+  "short_name": "업무진단도구",
+  "description": "반복업무 자동화 진단과 유형별 어려움 체크리스트 — 광명시 사회연대경제센터 마주센터",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f7f3",
+  "theme_color": "#1f7a5a",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml"}
+  ]
+}
